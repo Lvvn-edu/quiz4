@@ -1,0 +1,5 @@
+# 自動偵測文字檔並統一換行符號
+* text=auto
+
+# 強制 Python 檔案使用 LF (跨平台最佳實踐)
+*.py text eol=lf
